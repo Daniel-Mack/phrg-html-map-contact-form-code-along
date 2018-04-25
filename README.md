@@ -202,3 +202,4 @@ After you're finished, submit a pull request on Github by typing "learn submit"
 in the terminal and move on to the next lesson!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/html-map-contact-form-code-along'>HTML Map Contact Form Code-along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Map and Contact Form Code-along</p>
